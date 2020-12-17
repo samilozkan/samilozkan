@@ -7,6 +7,7 @@ I have been fascinated by data science, increasingly quantitative nature decisio
 I have excellent analytical skills and good relationship with people. I am also self-motivated, responsible, and highly organized and enjoy mining solutions from data and people.
 
 **Strong Languages** : Python <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> , R, SQL
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on building my data science career.👨🏻‍💻
 - 🌱 I’m currently learning learning Cloud Tech - Big Data -Deep Learning
