@@ -1,4 +1,4 @@
-### Hi I'm Şamil  👋🏼
+### Hi I'm Samil  👋🏼
 
 I am skilled in data analysis, data science, machine learning algorithms, deep learning algorithms and optimization, Python, and R programming language. 
 
