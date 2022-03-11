@@ -11,5 +11,4 @@ I have excellent analytical skills and good relationship with people. I am also 
 - 📫 How to reach me: [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssamilozkan/)
 ###
 
-[![](https://img.shields.io/twitter/follow/ssamilozkan?style=social)](https://www.twitter.com/ssamilozkan)
 
