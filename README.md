@@ -7,7 +7,6 @@ I have been fascinated by data world, increasingly quantitative nature decision-
 I have excellent analytical skills and good relationship with people. I am also self-motivated, responsible, and highly organized and enjoy mining solutions from data and people.
 
 
-- 🔭 Cloud Tech - Big Data - Deep Learning
 - 📫 How to reach me: [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssamilozkan/)
 ###
 
